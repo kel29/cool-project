@@ -7,3 +7,8 @@ body {
 h1 {
     color: white
 }
+
+h3 {
+    background-color: green;
+    color: rgb(184, 102, 205);
+}
