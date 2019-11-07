@@ -9,3 +9,5 @@ class Project {
 }
 
 console.log(new Project())
+document.body.style.backgroundColor = 'red'
+
